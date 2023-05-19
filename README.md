@@ -66,4 +66,4 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
 ## Conclusão
 
-Este projeto de Pokédex é uma forma simples de utilizar HTML semântico, CSS e JavaScript para exibir informações sobre Pokémon. Além disso, a funcionalidade de altern
+Este projeto de Pokédex é uma forma simples de utilizar HTML semântico, CSS e JavaScript para exibir informações sobre Pokémon. Além disso, a funcionalidade de alternância entre os modos de luz e escuro adiciona uma interatividade interessante ao projeto. Sinta-se à vontade para personalizá-lo e expandi-lo de acordo com suas necessidades e preferências.
